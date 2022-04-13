@@ -77,7 +77,7 @@ A platform for students of BIT and it’s club, where one can find everything re
 
 ## Developed by 
 
-## [Hritik Chaudhary](https://github.com/hrit-ik)  &  Mayukh Pankaj
+## Hritik Chaudhary & [Mayukh Pankaj](https://github.com/mayukhpankaj)
 
 ## Demo 
 
